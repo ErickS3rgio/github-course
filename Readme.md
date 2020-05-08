@@ -33,3 +33,7 @@ git push origin master // push aloca em 'origin' no branch 'master'
 
 //Aprendendo a clonar um repositório 
 git clone 'nome do repositório' (nome da pasta a ser copiado o arquivo)
+
+Aprendendo a diferença entre um 'git clone' e um 'fork'
+git clone // clona um repositório para ser usado na sua máquina, porém não é possivel subir para o github
+Usar o fork possibilia que seja possível copiar um repositório adicionar mudanças e requisitar que o dono original do repositório aceite ou não as mudanças
