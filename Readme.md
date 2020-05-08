@@ -29,3 +29,7 @@ git reset --mixed (hash(tag) do commite anterior ao que deseja voltar) //Retorna
 git reset --hard (hash(tag) do commite anterior ao que deseja voltar) //Mata o último commite feito e o HEAD passa a ser o estado do penúltimo commite com sucesso.
 
 //Aprendendo a usar um pull request. 
+git push origin master // push aloca em 'origin' no branch 'master'
+
+//Aprendendo a clonar um repositório 
+git clone 'nome do repositório' (nome da pasta a ser copiado o arquivo)
